@@ -6,9 +6,13 @@
 
 ### Controls
 W,S: rotate on x-axis
+
 A,D: rotate on y-axis
+
 Q,E: rotate on z-axis
+
 ARROW_UP, ARROW_DOWN: zoom in / zoom out
 
-![alt text](https://github.com/macmillen/3D_visualization/blob/master/data/screenshot.png?raw=true)
-![alt text](https://github.com/macmillen/3D_visualization/blob/master/data/screenshot_2.png?raw=true)
+
+![](https://github.com/macmillen/3D_visualization/blob/master/visual/data/screenshot.png?raw=true)
+![](https://github.com/macmillen/3D_visualization/blob/master/visual/data/screenshot_2.png?raw=true)
